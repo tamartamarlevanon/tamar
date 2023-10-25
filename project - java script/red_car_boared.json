@@ -1,0 +1,117 @@
+{
+  
+    "cars": [
+      {
+        "id": "111",
+        "boardTop": "300",
+        "boardLeft": "600",
+        "along": "0",
+        "across": "1",
+        "sumSquares": "2",
+        "color": "red"
+      },
+      {
+        "id": "1",
+        "boardTop": "100",
+        "boardLeft": "700",
+        "along": "1",
+        "across": "0",
+        "sumSquares": "2",
+        "color": "green"
+      },
+      {
+        "id": "2",
+        "boardTop": "100",
+        "boardLeft": "800",
+        "along": "0",
+        "across": "1",
+        "sumSquares": "2",
+        "color": "orange"
+      },
+      {
+        "id": "3",
+        "boardTop": "100",
+        "boardLeft": "1000",
+        "along": "0",
+        "across": "1",
+        "sumSquares": "2",
+        "color": "aqua"
+
+      },
+      {
+        "id": "4",
+        "boardTop": "200",
+        "boardLeft": "900",
+        "along": "1",
+        "across": "0",
+        "sumSquares": "2",
+        "color": "pink"
+      },
+      {
+        "id": "5",
+        "boardTop": "200",
+        "boardLeft": "1000",
+        "along": "0",
+        "across": "1",
+        "sumSquares": "2",
+        "color": "purple"
+      },
+      {
+        "id": "6",
+        "boardTop":"300",
+        "boardLeft": "1100",
+        "along": "1",
+        "across": "0",
+        "sumSquares": "2",
+        "color": "darkgreen"
+      },
+      {
+        "id": "7",
+        "boardTop": "300",
+        "boardLeft": "1000",
+        "along": "1",
+        "across": "0",
+        "sumSquares": "3",
+        "color": "yellow"
+      },
+      {
+        "id": "8",
+        "boardTop": "400",
+        "boardLeft": "700",
+        "along": "0",
+        "across": "1",
+        "sumSquares": "3",
+        "color": "blue"
+      },
+      {
+        "id": "9",
+        "boardTop": "400",
+        "boardLeft": "600",
+        "along": "1",
+        "across": "0",
+        "sumSquares": "3",
+        "color": "purple"
+      },
+      {
+        "id": "10",
+        "boardTop": "500",
+        "boardLeft": "800",
+        "along": "1",
+        "across": "0",
+        "sumSquares": "2",
+        "color": "white"
+      },
+      {
+        "id": "11",
+        "boardTop": "500",
+        "boardLeft": "1100",
+        "along": "1",
+        "across": "0",
+        "sumSquares": "2",
+        "color": "khaki"
+      }
+    ],
+    "slotsize": "100",
+    "sumslot": "6",
+    "exitLeft": "1000"
+  }

@@ -1,0 +1,111 @@
+
+#board{  
+    position: relative; 
+}
+button{
+    position: absolute;
+   
+    
+}
+
+input{
+    position: relative;
+    left:45% ;
+    direction: rtl;
+}
+#ok{
+    left:47% ;
+    position: relative;
+    height: 35px;
+    width: 150px;
+}
+.move
+{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-color: cornflowerblue;
+    color: black;
+    border-color: red;
+    border-width: 5px;
+    font-size: large;
+    
+}
+
+body{
+    /* background-color: darkseagreen; */
+    background-image:url("tt.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+
+    
+}
+[selected="true"]
+{
+    opacity: 0.5; 
+}
+#end_place{
+    position: absolute;
+    /* top: 400px;
+    left: 1193px; */
+    
+}
+#img_out{
+    position: absolute;
+    /* top: 400px;
+    left: 1193px; */
+    height: 100px;
+    width: 50px;
+}
+.selected{
+    /* opacity: 0.4; */
+    border-width: 5px;
+    border-color: black;
+}
+#img_end{
+    position:absolute;
+    margin: auto;
+    width: 100%;
+    height: 100%; 
+ }
+#save{
+    left: 100px;
+    top: 800px;
+    height: 50px;
+    width: 50px;
+}
+#save2{
+    left: 200px;
+    top: 800px;
+    height: 50px;
+    width: 50px;
+}
+#up{
+    left: 875px;
+    top:750px ;
+
+}
+#down{
+    left: 875px;
+    top:850px ;
+
+}
+#right{
+    left: 925px;
+    top:800px 
+
+}
+#left{
+    left:825px;
+    top:800px
+
+}
+#enterName{
+    height: 50px;
+    width: 200px;
+}
+#password{
+    height: 50px;
+    width: 200px;
+}
+

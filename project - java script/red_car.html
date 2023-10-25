@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="red_car.css" rel="stylesheet"/>
+
+    </head>
+    <body>
+        <input id="enterName" type="text" placeholder="הכנס שם משתמש"/>
+        <br/><br/>
+        <input id="password" type="password" placeholder="הקש סיסמה"/>
+        <br/><br/>
+        <button onclick="start()" id="ok">אישור</button>
+        <button  onclick="storage()" id="save">שמור וצא</button>
+        <!-- <button  onclick="new_game()"id="save2"> משחק חדש</button> -->
+        <div id="board" ></div>
+        <button class="move" id="up" onclick="up()">^</button>
+        <button class="move" id="down" onclick="down()">v</button>
+        <button class="move" id="right" onclick="right()">></button>
+        <button class="move" id="left" onclick="left()"><</button>
+        
+        <div id="end_place">
+            <img id="img_end" src="tt.jpg"/>
+        </div>
+        
+        
+        <script src="red_car.js"></script>
+    </body>
+</html>
